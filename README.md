@@ -1,4 +1,4 @@
-![alt text](image.png)
+![alt text](readme/image.png)
 
 # **#4 HOWTO**
 
