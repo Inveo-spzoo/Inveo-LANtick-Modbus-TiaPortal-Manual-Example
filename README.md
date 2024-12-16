@@ -1,6 +1,6 @@
 ![alt text](readme/image.png)
 
-# **#4 HOWTO**
+# **#2 HOWTO**
 
 #  **How to integrate Siemens S7 PLC and Inveo LANtick module using Modbus TCP/IP**
 
